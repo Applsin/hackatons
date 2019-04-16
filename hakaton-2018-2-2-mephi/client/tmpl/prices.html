@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+  </head>
+  <body>
+        <div class="container">
+
+            <a class="navbar-brand" href="/open">Открыть позицию</a>
+            <a class="navbar-brand" href="/my-positions">Мои позиции</a>
+            <a class="navbar-brand" href="/prices?ticker=SPFB.RTC">Цены</a>
+            <br>
+            <button href="/prices?ticker=SPFB.RTC" class="btn btn-primary">SPFB.RTC</button>
+            <button href="/prices?ticker=IMOEX" class="btn btn-primary">IMOEX</button>
+            <button href="/prices?ticker=UCD000UTSTOM" class="btn btn-primary">UCD000UTSTOM</button>
+
+            <h1>{{.Ticker}}</h1>
+            <table class="table">
+            
+            <thead>
+                <tr>
+                <td>Time</td>
+                <td>Open</td>
+                <td>High</td>
+                <td>Low</td>
+                <td>Close</td>
+                <td>Volume</td>
+                </tr>
+            </thead>
+            <tbody>
+            {{range .Prices}}
+                <tr>
+                <td>{{.Time}}</td>
+                <td>{{.Open}}</td>
+                <td>{{.High}}</td>
+                <td>{{.Low}}</td>
+                <td>{{.Close}}</td>
+                <td>{{.Volume}}</td>
+                </tr>
+            {{end}}
+            </tbody>
+            </table>
+            <br>
+        </div>
+  </body>
+</html>

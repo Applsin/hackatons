@@ -1,0 +1,6 @@
+{"id":2,"time":1541257039,"asin":"0738700797","title":"Candlemas: Feast of Flames","group":"Book","salesrank":"168596"}
+{"id":13,"time":1541257050,"asin":"0313230269","title":"Clockwork Worlds : Mechanized Environments in SF (Contributions to the Study of Science Fiction and Fantasy)","group":"Book","salesrank":"2895088"}
+{"id":24,"time":1541257061,"asin":"0553525476","title":"The Casebook of Sherlock Holmes, Volume 2 (Casebook of Sherlock Holmes)","group":"Book","salesrank":"1545277"}
+{"id":26,"time":1541257063,"asin":"1590930509","title":"Chicken Little","group":"Book","salesrank":"242571"}
+{"id":33,"time":1541257070,"asin":"0439240751","title":"Double Jeopardy (T*Witches, 6)","group":"Book","salesrank":"97166"}
+{"id":46,"time":1541257083,"asin":"0826449379","title":"Alternative Worlds in Fantasy Fiction (Contemporary Classics of Children's Literature)","group":"Book","salesrank":"1115213"}

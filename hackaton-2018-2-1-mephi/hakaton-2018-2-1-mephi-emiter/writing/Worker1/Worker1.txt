@@ -1,0 +1,8 @@
+{"id":3,"time":1541257040,"asin":"0486287785","title":"World War II Allied Fighter Planes Trading Cards","group":"Book","salesrank":"1270652"}
+{"id":8,"time":1541257045,"asin":"0231118597","title":"Losing Matt Shepard","group":"Book","salesrank":"277409"}
+{"id":10,"time":1541257047,"asin":"0375709363","title":"The Edward Said Reader","group":"Book","salesrank":"220379"}
+{"id":19,"time":1541257056,"asin":"078510870X","title":"Ultimate Marvel Team-Up","group":"Book","salesrank":"612475"}
+{"id":27,"time":1541257064,"asin":"0231096704","title":"The Columbia Anthology of Gay Literature","group":"Book","salesrank":"1119683"}
+{"id":38,"time":1541257075,"asin":"0787950599","title":"Resolving Conflicts At Work : A Complete Guide for Everyone on the Job","group":"Book","salesrank":"644042"}
+{"id":39,"time":1541257076,"asin":"0312199406","title":"Night of Many Dreams : A Novel","group":"Book","salesrank":"57186"}
+{"id":45,"time":1541257082,"asin":"1861007418","title":"Beginning ASP.NET Databases using C#","group":"Book","salesrank":"48408"}

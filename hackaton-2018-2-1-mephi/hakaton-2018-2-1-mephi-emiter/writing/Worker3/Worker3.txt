@@ -1,0 +1,3 @@
+{"id":1,"time":1541257038,"asin":"0827229534","title":"Patterns of Preaching: A Sermon Sampler","group":"Book","salesrank":"396585"}
+{"id":18,"time":1541257055,"asin":"B000007R0T","title":"Sol to Soul","group":"Music","salesrank":"109301"}
+{"id":32,"time":1541257069,"asin":"0761116982","title":"Staff Meals from Chanterelle","group":"Book","salesrank":"150657"}
